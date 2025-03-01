@@ -33,12 +33,10 @@ drive innovation and maintain high-quality standards
 * Took ownership of key features, leading the design and development process to meet project objectives
 * Wrote clean, efficient, and maintainable code following Agile development
 
-### Bank of America Internal Program<br>Newark, DE  
-**Software Developer I**<br>  
-_08/2021 - 11/2021_
-
-**Full-Stack Development Program (Internal)**
-
+### Bank of America <br>Newark, DE  
+**Software Developer I**<br>
+**Full-Stack Development Program (Internal)**<br>
+_08/2021 - 11/2021_<br>
 * Developed both frontend and backend solutions using Angular and Java
 * Enhanced problem-solving skills and promoted effective collaboration within the team
 * Successfully completed weekly quizzes and delivered monthly presentations of full-stack applications to managers and team leads
@@ -56,6 +54,7 @@ deliver impactful software solutions
 
 ## Education
 ### Wilmington University<br>New Castle, DE
+**Sophmore**<br>
 _02/2025 - Present_
 * Bachelor of Science (BS)
 * Computer Science Major, AI Concentration
