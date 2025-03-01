@@ -1,0 +1,22 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  
+  header, footer {
+    background-color: #1f1f1f;
+  }
+  
+  a {
+    color: #bb86fc;
+  }
+  
+  a:hover {
+    color: #6200ea;
+  }
+  
+  section {
+    background-color: #181818;
+    border: 1px solid #333;
+  }
+  
