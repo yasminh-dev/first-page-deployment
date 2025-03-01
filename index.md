@@ -7,7 +7,7 @@ title: resume
 # Yasmin Herrera
 ## Software Developer II <br>Newark, DE
 * yherr.dev@gmail.com
-* [linkedin.com/in/yherr](linkedin.com/in/yherr) 
+* [linkedin.com/in/yherr](https://www.linkedin.com/in/yherr/) 
 
 ## Summary
 Software Engineer with 4 years of experience in Java development and highly proficient in all phases of the software
@@ -17,13 +17,16 @@ drive innovation and maintain high-quality standards
 
 ## Areas of Expertise
 * Java
+* REST API
 * Spring Boot (incl. Hibernate/JPA)
 * Database Management (MySQL, JDBC)
 * Testing Frameworks (Mockito, PowerMock)
-* Proficient Troubleshooting
+* JFrog CLI
+* Maven
+* Git
 
 ## Work Experience
-### Bank of America<br>Newark, DE<br>
+### Bank of America<br>Newark, DE
 **Software Developer II**<br>
 *07/2020 - Present*<br>
 
@@ -31,7 +34,7 @@ drive innovation and maintain high-quality standards
 * Took ownership of key features, leading the design and development process to meet project objectives
 * Wrote clean, efficient, and maintainable code following Agile development
 
-### Year Up United<br>Wilmington, DE<br>
+### Year Up United<br>Wilmington, DE
 **Student/Developer Intern**<br>
 _2020 - 2021_
 * Gained expertise in developing Java-based applications using industry-standard tools like IntelliJ IDEA, Maven, and Git
@@ -42,5 +45,7 @@ deliver impactful software solutions
 * Created and optimized SQL queries to retrieve and manipulate data in MySQL databases
 
 ## Education
-### Associate Degree in Liberal Studies<br>Wilmington University<br>
-_08/2016 - 05/2018_
+### Wilmington University<br>New Castle, DE
+_02/2025 - Present_
+* Bachelor of Science (BS)
+* Computer Science Major, AI Concentration
